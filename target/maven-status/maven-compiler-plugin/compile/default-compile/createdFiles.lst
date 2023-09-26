@@ -1,0 +1,4 @@
+Model\PersonaDAO.class
+View\Vista.class
+Controller\PersonaController.class
+Model\Persona.class
